@@ -1,0 +1,4614 @@
+[
+  {
+    "id": 1020,
+    "aggregated_rating": 88.13793103448276,
+    "first_release_date": 1379376000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Grand Theft Auto V",
+    "rating": 89.63297363400868,
+    "total_rating_count": 6047
+  },
+  {
+    "id": 1942,
+    "aggregated_rating": 91.73076923076923,
+    "first_release_date": 1431993600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Witcher 3: Wild Hunt",
+    "rating": 93.77367221743404,
+    "total_rating_count": 5544
+  },
+  {
+    "id": 72,
+    "aggregated_rating": 92.44444444444444,
+    "first_release_date": 1303084800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Portal 2",
+    "rating": 91.33087806079354,
+    "total_rating_count": 4535
+  },
+  {
+    "id": 472,
+    "aggregated_rating": 79.91666666666667,
+    "first_release_date": 1320883200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls V: Skyrim",
+    "rating": 87.77482150675057,
+    "total_rating_count": 4379
+  },
+  {
+    "id": 732,
+    "aggregated_rating": 93.14285714285714,
+    "first_release_date": 1098748800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Grand Theft Auto: San Andreas",
+    "rating": 90.08856703326788,
+    "total_rating_count": 4109
+  },
+  {
+    "id": 71,
+    "aggregated_rating": 80.0,
+    "first_release_date": 1191974400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Portal",
+    "rating": 86.40766643390707,
+    "total_rating_count": 4067
+  },
+  {
+    "id": 25076,
+    "aggregated_rating": 94.05882352941177,
+    "first_release_date": 1540512000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Red Dead Redemption 2",
+    "rating": 93.19997709768438,
+    "total_rating_count": 3930
+  },
+  {
+    "id": 19560,
+    "aggregated_rating": 96.23076923076923,
+    "first_release_date": 1524182400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War",
+    "rating": 91.95214633267469,
+    "total_rating_count": 3647
+  },
+  {
+    "id": 1009,
+    "aggregated_rating": 91.53846153846153,
+    "first_release_date": 1371168000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us",
+    "rating": 92.86337498112111,
+    "total_rating_count": 3631
+  },
+  {
+    "id": 233,
+    "aggregated_rating": 79.125,
+    "first_release_date": 1100563200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Half-Life 2",
+    "rating": 90.36438347408394,
+    "total_rating_count": 3493
+  },
+  {
+    "id": 20,
+    "aggregated_rating": 92.625,
+    "first_release_date": 1187654400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "BioShock",
+    "rating": 86.68548281773232,
+    "total_rating_count": 3248
+  },
+  {
+    "id": 127,
+    "aggregated_rating": 90.25,
+    "first_release_date": 1258416000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed II",
+    "rating": 86.7137294658227,
+    "total_rating_count": 3242
+  },
+  {
+    "id": 733,
+    "aggregated_rating": 94.0,
+    "first_release_date": 1035676800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Grand Theft Auto: Vice City",
+    "rating": 87.31670180251851,
+    "total_rating_count": 3187
+  },
+  {
+    "id": 7346,
+    "aggregated_rating": 97.5925925925926,
+    "first_release_date": 1488499200,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "rating": 92.4961412499888,
+    "total_rating_count": 3030
+  },
+  {
+    "id": 231,
+    "aggregated_rating": 80.0,
+    "first_release_date": 911433600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Half-Life",
+    "rating": 88.47734460873538,
+    "total_rating_count": 2953
+  },
+  {
+    "id": 74,
+    "aggregated_rating": 95.6,
+    "first_release_date": 1264464000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect 2",
+    "rating": 91.1924475447087,
+    "total_rating_count": 2803
+  },
+  {
+    "id": 501,
+    "aggregated_rating": 91.2,
+    "first_release_date": 1318896000,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Batman: Arkham City",
+    "rating": 87.58118498626159,
+    "total_rating_count": 2724
+  },
+  {
+    "id": 538,
+    "aggregated_rating": 93.21428571428571,
+    "first_release_date": 1364169600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "BioShock Infinite",
+    "rating": 85.65223056792262,
+    "total_rating_count": 2716
+  },
+  {
+    "id": 7331,
+    "aggregated_rating": 93.24,
+    "first_release_date": 1462838400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted 4: A Thief's End",
+    "rating": 90.42697320851202,
+    "total_rating_count": 2694
+  },
+  {
+    "id": 500,
+    "aggregated_rating": 89.4,
+    "first_release_date": 1251158400,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Batman: Arkham Asylum",
+    "rating": 85.57761063476892,
+    "total_rating_count": 2613
+  },
+  {
+    "id": 434,
+    "aggregated_rating": 91.8,
+    "first_release_date": 1274140800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Red Dead Redemption",
+    "rating": 89.15326179373763,
+    "total_rating_count": 2581
+  },
+  {
+    "id": 73,
+    "aggregated_rating": 88.5,
+    "first_release_date": 1195516800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Mass Effect",
+    "rating": 86.15761310763409,
+    "total_rating_count": 2564
+  },
+  {
+    "id": 11156,
+    "aggregated_rating": 88.84615384615384,
+    "first_release_date": 1488240000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Horizon Zero Dawn",
+    "rating": 87.35440418598742,
+    "total_rating_count": 2492
+  },
+  {
+    "id": 16,
+    "aggregated_rating": 81.9,
+    "first_release_date": 1287446400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Fallout: New Vegas",
+    "rating": 87.1375066623961,
+    "total_rating_count": 2453
+  },
+  {
+    "id": 1164,
+    "aggregated_rating": 84.64285714285714,
+    "first_release_date": 1362441600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Tomb Raider",
+    "rating": 81.70207845945464,
+    "total_rating_count": 2409
+  },
+  {
+    "id": 119133,
+    "aggregated_rating": 96.9,
+    "first_release_date": 1645747200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Elden Ring",
+    "rating": 93.48186782121746,
+    "total_rating_count": 2342
+  },
+  {
+    "id": 14593,
+    "aggregated_rating": 91.25,
+    "first_release_date": 1487894400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hollow Knight",
+    "rating": 91.79701276836906,
+    "total_rating_count": 2282
+  },
+  {
+    "id": 529,
+    "aggregated_rating": 89.53333333333333,
+    "first_release_date": 1354060800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Far Cry 3",
+    "rating": 83.45820084289515,
+    "total_rating_count": 2252
+  },
+  {
+    "id": 565,
+    "aggregated_rating": 95.375,
+    "first_release_date": 1255392000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted 2: Among Thieves",
+    "rating": 88.64085668902382,
+    "total_rating_count": 2244
+  },
+  {
+    "id": 19565,
+    "aggregated_rating": 89.6875,
+    "first_release_date": 1536278400,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Marvel's Spider-Man",
+    "rating": 87.14380350046738,
+    "total_rating_count": 2199
+  },
+  {
+    "id": 1029,
+    "first_release_date": 911606400,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "rating": 91.53011639254547,
+    "total_rating_count": 2185
+  },
+  {
+    "id": 121,
+    "aggregated_rating": 84.35714285714286,
+    "first_release_date": 1321574400,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Minecraft: Java Edition",
+    "rating": 85.19508691515627,
+    "total_rating_count": 2097
+  },
+  {
+    "id": 1074,
+    "aggregated_rating": 89.0,
+    "first_release_date": 835488000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario 64",
+    "rating": 88.39684537791456,
+    "total_rating_count": 2092
+  },
+  {
+    "id": 1070,
+    "aggregated_rating": 100.0,
+    "first_release_date": 659145600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario World",
+    "rating": 91.69427386421646,
+    "total_rating_count": 2053
+  },
+  {
+    "id": 11133,
+    "aggregated_rating": 86.07692307692308,
+    "first_release_date": 1458777600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dark Souls III",
+    "rating": 87.13209188075794,
+    "total_rating_count": 2013
+  },
+  {
+    "id": 7351,
+    "aggregated_rating": 86.96875,
+    "first_release_date": 1463011200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom",
+    "rating": 85.18040642318199,
+    "total_rating_count": 1959
+  },
+  {
+    "id": 533,
+    "aggregated_rating": 84.8125,
+    "first_release_date": 1349740800,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dishonored",
+    "rating": 84.85067664310534,
+    "total_rating_count": 1938
+  },
+  {
+    "id": 731,
+    "aggregated_rating": 88.125,
+    "first_release_date": 1209427200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Grand Theft Auto IV",
+    "rating": 83.48811810028018,
+    "total_rating_count": 1933
+  },
+  {
+    "id": 12517,
+    "aggregated_rating": 96.38461538461539,
+    "first_release_date": 1442275200,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Undertale",
+    "rating": 85.97225199800386,
+    "total_rating_count": 1911
+  },
+  {
+    "id": 7334,
+    "aggregated_rating": 91.11111111111111,
+    "first_release_date": 1427155200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Bloodborne",
+    "rating": 91.32088917899017,
+    "total_rating_count": 1908
+  },
+  {
+    "id": 26758,
+    "aggregated_rating": 96.70588235294117,
+    "first_release_date": 1509062400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Odyssey",
+    "rating": 88.82876773431185,
+    "total_rating_count": 1906
+  },
+  {
+    "id": 7599,
+    "aggregated_rating": 78.83783783783784,
+    "first_release_date": 1422489600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Life Is Strange",
+    "rating": 82.99178378740172,
+    "total_rating_count": 1905
+  },
+  {
+    "id": 1011,
+    "aggregated_rating": 80.70588235294117,
+    "first_release_date": 1347926400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Borderlands 2",
+    "rating": 83.64217545459182,
+    "total_rating_count": 1889
+  },
+  {
+    "id": 75,
+    "aggregated_rating": 90.8125,
+    "first_release_date": 1330992000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect 3",
+    "rating": 85.22328482924443,
+    "total_rating_count": 1872
+  },
+  {
+    "id": 623,
+    "aggregated_rating": 87.85714285714286,
+    "first_release_date": 1194220800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Call of Duty 4: Modern Warfare",
+    "rating": 84.29040022454444,
+    "total_rating_count": 1861
+  },
+  {
+    "id": 17000,
+    "aggregated_rating": 90.53846153846153,
+    "first_release_date": 1456444800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Stardew Valley",
+    "rating": 85.9838219594454,
+    "total_rating_count": 1852
+  },
+  {
+    "id": 26192,
+    "aggregated_rating": 95.18181818181819,
+    "first_release_date": 1592524800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us Part II",
+    "rating": 90.39535914207441,
+    "total_rating_count": 1834
+  },
+  {
+    "id": 1970,
+    "aggregated_rating": 84.57142857142857,
+    "first_release_date": 1383004800,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed IV Black Flag",
+    "rating": 83.19799390380071,
+    "total_rating_count": 1825
+  },
+  {
+    "id": 18,
+    "aggregated_rating": 73.8,
+    "first_release_date": 995846400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Max Payne",
+    "rating": 85.61993227831277,
+    "total_rating_count": 1810
+  },
+  {
+    "id": 128,
+    "aggregated_rating": 80.75,
+    "first_release_date": 1194912000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed",
+    "rating": 73.32432321941974,
+    "total_rating_count": 1803
+  },
+  {
+    "id": 113112,
+    "aggregated_rating": 93.52941176470588,
+    "first_release_date": 1600300800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hades",
+    "rating": 89.43193065813992,
+    "total_rating_count": 1798
+  },
+  {
+    "id": 15,
+    "aggregated_rating": 89.1,
+    "first_release_date": 1225152000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Fallout 3",
+    "rating": 83.28867168600877,
+    "total_rating_count": 1794
+  },
+  {
+    "id": 113,
+    "aggregated_rating": 83.33333333333333,
+    "first_release_date": 1289865600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed Brotherhood",
+    "rating": 82.82611390786136,
+    "total_rating_count": 1773
+  },
+  {
+    "id": 9630,
+    "aggregated_rating": 84.66666666666667,
+    "first_release_date": 1447027200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Fallout 4",
+    "rating": 79.53312137194055,
+    "total_rating_count": 1771
+  },
+  {
+    "id": 1871,
+    "aggregated_rating": 84.3529411764706,
+    "first_release_date": 1335225600,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Walking Dead",
+    "rating": 85.88941882666137,
+    "total_rating_count": 1761
+  },
+  {
+    "id": 76,
+    "aggregated_rating": 90.2,
+    "first_release_date": 1257206400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Dragon Age: Origins",
+    "rating": 86.34469360062673,
+    "total_rating_count": 1758
+  },
+  {
+    "id": 1068,
+    "first_release_date": 593568000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Bros. 3",
+    "rating": 89.3516571709972,
+    "total_rating_count": 1751
+  },
+  {
+    "id": 2155,
+    "aggregated_rating": 90.625,
+    "first_release_date": 1316649600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dark Souls",
+    "rating": 86.61473581045654,
+    "total_rating_count": 1746
+  },
+  {
+    "id": 1026,
+    "aggregated_rating": 100.0,
+    "first_release_date": 690681600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: A Link to the Past",
+    "rating": 91.93918914839546,
+    "total_rating_count": 1737
+  },
+  {
+    "id": 375,
+    "aggregated_rating": 80.0,
+    "first_release_date": 904780800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid",
+    "rating": 90.51563161401813,
+    "total_rating_count": 1727
+  },
+  {
+    "id": 6036,
+    "aggregated_rating": 97.4,
+    "first_release_date": 1406332800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us Remastered",
+    "rating": 93.35070185452591,
+    "total_rating_count": 1711
+  },
+  {
+    "id": 974,
+    "aggregated_rating": 81.6,
+    "first_release_date": 1105401600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Resident Evil 4",
+    "rating": 87.28376911579231,
+    "total_rating_count": 1702
+  },
+  {
+    "id": 7342,
+    "aggregated_rating": 92.48717948717949,
+    "first_release_date": 1467158400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Inside",
+    "rating": 85.68117392976838,
+    "total_rating_count": 1690
+  },
+  {
+    "id": 132,
+    "aggregated_rating": 93.0,
+    "first_release_date": 1025654400,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Warcraft III: Reign of Chaos",
+    "rating": 88.32415701508056,
+    "total_rating_count": 1688
+  },
+  {
+    "id": 1877,
+    "aggregated_rating": 75.23809523809524,
+    "first_release_date": 1607558400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Cyberpunk 2077",
+    "rating": 83.26963112390504,
+    "total_rating_count": 1684
+  },
+  {
+    "id": 119171,
+    "aggregated_rating": 94.5,
+    "first_release_date": 1691020800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Baldur's Gate III",
+    "rating": 95.02587607799506,
+    "total_rating_count": 1660
+  },
+  {
+    "id": 427,
+    "aggregated_rating": 85.0,
+    "first_release_date": 873590400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy VII",
+    "rating": 90.66530603411552,
+    "total_rating_count": 1642
+  },
+  {
+    "id": 1331,
+    "aggregated_rating": 84.0,
+    "first_release_date": 1279670400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Limbo",
+    "rating": 80.94218738007851,
+    "total_rating_count": 1641
+  },
+  {
+    "id": 730,
+    "aggregated_rating": 95.0,
+    "first_release_date": 1003708800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Grand Theft Auto III",
+    "rating": 84.46791823311237,
+    "total_rating_count": 1633
+  },
+  {
+    "id": 126,
+    "aggregated_rating": 90.0,
+    "first_release_date": 962236800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "name": "Diablo II",
+    "rating": 88.61509892565394,
+    "total_rating_count": 1616
+  },
+  {
+    "id": 11208,
+    "aggregated_rating": 85.72,
+    "first_release_date": 1487808000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      }
+    ],
+    "name": "NieR: Automata",
+    "rating": 89.78125381517714,
+    "total_rating_count": 1607
+  },
+  {
+    "id": 59,
+    "aggregated_rating": 80.57142857142857,
+    "first_release_date": 1142812800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls IV: Oblivion",
+    "rating": 85.07774164851148,
+    "total_rating_count": 1596
+  },
+  {
+    "id": 559,
+    "aggregated_rating": 85.27272727272727,
+    "first_release_date": 1257811200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty: Modern Warfare 2",
+    "rating": 81.25095768190049,
+    "total_rating_count": 1582
+  },
+  {
+    "id": 39,
+    "aggregated_rating": 62.66666666666666,
+    "first_release_date": 1030579200,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mafia",
+    "rating": 86.33845886917895,
+    "total_rating_count": 1556
+  },
+  {
+    "id": 7344,
+    "aggregated_rating": 88.28571428571429,
+    "first_release_date": 1426032000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ori and the Blind Forest",
+    "rating": 86.67148499642659,
+    "total_rating_count": 1551
+  },
+  {
+    "id": 5503,
+    "aggregated_rating": 91.8125,
+    "first_release_date": 1435017600,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Batman: Arkham Knight",
+    "rating": 84.93341855763086,
+    "total_rating_count": 1547
+  },
+  {
+    "id": 1266,
+    "aggregated_rating": 81.17647058823529,
+    "first_release_date": 1351555200,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed III",
+    "rating": 73.57940712091776,
+    "total_rating_count": 1520
+  },
+  {
+    "id": 116,
+    "aggregated_rating": 93.66666666666667,
+    "first_release_date": 1058227200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Knights of the Old Republic",
+    "rating": 90.37518794260434,
+    "total_rating_count": 1504
+  },
+  {
+    "id": 26226,
+    "aggregated_rating": 91.3,
+    "first_release_date": 1516838400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Celeste",
+    "rating": 86.71473396653926,
+    "total_rating_count": 1489
+  },
+  {
+    "id": 512,
+    "aggregated_rating": 93.25,
+    "first_release_date": 1320105600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted 3: Drake's Deception",
+    "rating": 84.31926538514936,
+    "total_rating_count": 1480
+  },
+  {
+    "id": 247,
+    "aggregated_rating": 70.0,
+    "first_release_date": 1191888000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Half-Life 2: Episode Two",
+    "rating": 87.57404726486132,
+    "total_rating_count": 1472
+  },
+  {
+    "id": 19686,
+    "aggregated_rating": 92.83333333333333,
+    "first_release_date": 1548374400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Resident Evil 2",
+    "rating": 87.30600000527916,
+    "total_rating_count": 1457
+  },
+  {
+    "id": 76882,
+    "aggregated_rating": 90.0909090909091,
+    "first_release_date": 1553212800,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Sekiro: Shadows Die Twice",
+    "rating": 89.70726043915717,
+    "total_rating_count": 1428
+  },
+  {
+    "id": 3025,
+    "aggregated_rating": 83.88888888888889,
+    "first_release_date": 1412035200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Middle-earth: Shadow of Mordor",
+    "rating": 79.49447581462742,
+    "total_rating_count": 1416
+  },
+  {
+    "id": 478,
+    "aggregated_rating": 85.71428571428571,
+    "first_release_date": 1305590400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Witcher 2: Assassins of Kings",
+    "rating": 84.57234353738657,
+    "total_rating_count": 1404
+  },
+  {
+    "id": 1802,
+    "aggregated_rating": 91.33333333333333,
+    "first_release_date": 794880000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Chrono Trigger",
+    "rating": 93.24548927110813,
+    "total_rating_count": 1394
+  },
+  {
+    "id": 7323,
+    "aggregated_rating": 87.04,
+    "first_release_date": 1447113600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Rise of the Tomb Raider",
+    "rating": 81.36593755093824,
+    "total_rating_count": 1375
+  },
+  {
+    "id": 545,
+    "aggregated_rating": 81.41666666666667,
+    "first_release_date": 1289260800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty: Black Ops",
+    "rating": 79.25928612655011,
+    "total_rating_count": 1360
+  },
+  {
+    "id": 1372,
+    "aggregated_rating": 81.0,
+    "first_release_date": 1345507200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Counter-Strike: Global Offensive",
+    "rating": 81.6705157215813,
+    "total_rating_count": 1354
+  },
+  {
+    "id": 2031,
+    "aggregated_rating": 77.3125,
+    "first_release_date": 1400544000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Wolfenstein: The New Order",
+    "rating": 81.58509086071643,
+    "total_rating_count": 1352
+  },
+  {
+    "id": 2207,
+    "aggregated_rating": 88.5,
+    "first_release_date": 1129593600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Shadow of the Colossus",
+    "rating": 89.12571634167165,
+    "total_rating_count": 1349
+  },
+  {
+    "id": 358,
+    "first_release_date": 495417600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Bros.",
+    "rating": 83.54834068343021,
+    "total_rating_count": 1336
+  },
+  {
+    "id": 14362,
+    "aggregated_rating": 77.61538461538461,
+    "first_release_date": 1527206400,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Detroit: Become Human",
+    "rating": 82.34377751427468,
+    "total_rating_count": 1320
+  },
+  {
+    "id": 1077,
+    "aggregated_rating": 98.75,
+    "first_release_date": 1193875200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Galaxy",
+    "rating": 88.71052178946675,
+    "total_rating_count": 1312
+  },
+  {
+    "id": 379,
+    "aggregated_rating": 85.5,
+    "first_release_date": 1100649600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 3: Snake Eater",
+    "rating": 92.67322792098973,
+    "total_rating_count": 1293
+  },
+  {
+    "id": 1384,
+    "aggregated_rating": 86.2,
+    "first_release_date": 1350950400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Hotline Miami",
+    "rating": 83.00304944764946,
+    "total_rating_count": 1282
+  },
+  {
+    "id": 40,
+    "aggregated_rating": 72.625,
+    "first_release_date": 1282608000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mafia II",
+    "rating": 81.51176411888402,
+    "total_rating_count": 1271
+  },
+  {
+    "id": 230,
+    "first_release_date": 891302400,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "StarCraft",
+    "rating": 87.87194545621169,
+    "total_rating_count": 1270
+  },
+  {
+    "id": 37,
+    "aggregated_rating": 88.16666666666667,
+    "first_release_date": 1223942400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "name": "Dead Space",
+    "rating": 85.66860342958648,
+    "total_rating_count": 1263
+  },
+  {
+    "id": 537,
+    "aggregated_rating": 81.71428571428571,
+    "first_release_date": 1321228800,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed Revelations",
+    "rating": 76.99568716220521,
+    "total_rating_count": 1257
+  },
+  {
+    "id": 11198,
+    "aggregated_rating": 88.70588235294117,
+    "first_release_date": 1436140800,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Rocket League",
+    "rating": 81.49645299341003,
+    "total_rating_count": 1244
+  },
+  {
+    "id": 1262,
+    "aggregated_rating": 80.35714285714286,
+    "first_release_date": 1393804800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "South Park: The Stick of Truth",
+    "rating": 83.7343945437425,
+    "total_rating_count": 1244
+  },
+  {
+    "id": 481,
+    "aggregated_rating": 90.0,
+    "first_release_date": 1001289600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Silent Hill 2",
+    "rating": 91.02163739623532,
+    "total_rating_count": 1231
+  },
+  {
+    "id": 2993,
+    "aggregated_rating": 79.52272727272727,
+    "first_release_date": 1381449600,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Wolf Among Us",
+    "rating": 83.30196784168012,
+    "total_rating_count": 1225
+  },
+  {
+    "id": 9730,
+    "aggregated_rating": 79.27777777777777,
+    "first_release_date": 1454976000,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Firewatch",
+    "rating": 78.79088338940194,
+    "total_rating_count": 1224
+  },
+  {
+    "id": 26472,
+    "aggregated_rating": 89.125,
+    "first_release_date": 1571097600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Disco Elysium",
+    "rating": 92.60130889841892,
+    "total_rating_count": 1219
+  },
+  {
+    "id": 124,
+    "aggregated_rating": 88.6,
+    "first_release_date": 1258416000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Left 4 Dead 2",
+    "rating": 81.98788496637002,
+    "total_rating_count": 1219
+  },
+  {
+    "id": 431,
+    "aggregated_rating": 89.75,
+    "first_release_date": 1195171200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted: Drake's Fortune",
+    "rating": 76.06779426277839,
+    "total_rating_count": 1215
+  },
+  {
+    "id": 1985,
+    "aggregated_rating": 95.73684210526316,
+    "first_release_date": 1441065600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "rating": 84.69470896342119,
+    "total_rating_count": 1207
+  },
+  {
+    "id": 1352,
+    "aggregated_rating": 93.85714285714286,
+    "first_release_date": 1331596800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Journey",
+    "rating": 85.44745170497136,
+    "total_rating_count": 1203
+  },
+  {
+    "id": 112875,
+    "aggregated_rating": 94.61538461538461,
+    "first_release_date": 1667952000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War Ragnarök",
+    "rating": 90.88449119335868,
+    "total_rating_count": 1202
+  },
+  {
+    "id": 8173,
+    "aggregated_rating": 89.08333333333333,
+    "first_release_date": 1464048000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Overwatch",
+    "rating": 81.76612976336266,
+    "total_rating_count": 1201
+  },
+  {
+    "id": 6801,
+    "aggregated_rating": 86.42105263157895,
+    "first_release_date": 1416268800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Far Cry 4",
+    "rating": 75.77242116512411,
+    "total_rating_count": 1191
+  },
+  {
+    "id": 135243,
+    "aggregated_rating": 90.26666666666667,
+    "first_release_date": 1616630400,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "It Takes Two",
+    "rating": 88.39207643500475,
+    "total_rating_count": 1187
+  },
+  {
+    "id": 1121,
+    "aggregated_rating": 81.0952380952381,
+    "first_release_date": 1401062400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Watch Dogs",
+    "rating": 73.10300450180905,
+    "total_rating_count": 1184
+  },
+  {
+    "id": 960,
+    "aggregated_rating": 89.33333333333333,
+    "first_release_date": 1337040000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Max Payne 3",
+    "rating": 81.91909154571763,
+    "total_rating_count": 1177
+  },
+  {
+    "id": 866,
+    "aggregated_rating": 86.6,
+    "first_release_date": 1285027200,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Sid Meier's Civilization V",
+    "rating": 85.14391028906374,
+    "total_rating_count": 1175
+  },
+  {
+    "id": 979,
+    "aggregated_rating": 81.07692307692308,
+    "first_release_date": 1320710400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Call of Duty: Modern Warfare 3",
+    "rating": 73.59238464639854,
+    "total_rating_count": 1174
+  },
+  {
+    "id": 75235,
+    "aggregated_rating": 91.91666666666667,
+    "first_release_date": 1594944000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ghost of Tsushima",
+    "rating": 88.25454653792661,
+    "total_rating_count": 1163
+  },
+  {
+    "id": 239,
+    "aggregated_rating": 89.4,
+    "first_release_date": 1280188800,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "StarCraft II: Wings of Liberty",
+    "rating": 86.90180969810937,
+    "total_rating_count": 1150
+  },
+  {
+    "id": 493,
+    "aggregated_rating": 80.25,
+    "first_release_date": 1266451200,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Heavy Rain",
+    "rating": 81.45684743568886,
+    "total_rating_count": 1147
+  },
+  {
+    "id": 9927,
+    "aggregated_rating": 93.57142857142857,
+    "first_release_date": 1473897600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Persona 5",
+    "rating": 92.45140479595301,
+    "total_rating_count": 1138
+  },
+  {
+    "id": 19562,
+    "aggregated_rating": 85.17857142857143,
+    "first_release_date": 1485216000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Resident Evil 7: Biohazard",
+    "rating": 84.15812933649977,
+    "total_rating_count": 1135
+  },
+  {
+    "id": 21,
+    "aggregated_rating": 87.0,
+    "first_release_date": 1265673600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "BioShock 2",
+    "rating": 80.87979711559838,
+    "total_rating_count": 1125
+  },
+  {
+    "id": 28540,
+    "aggregated_rating": 85.93333333333334,
+    "first_release_date": 1508976000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed Origins",
+    "rating": 81.35881184235114,
+    "total_rating_count": 1124
+  },
+  {
+    "id": 7603,
+    "aggregated_rating": 84.27272727272727,
+    "first_release_date": 1502064000,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hellblade: Senua's Sacrifice",
+    "rating": 83.99820056339627,
+    "total_rating_count": 1118
+  },
+  {
+    "id": 1627,
+    "aggregated_rating": 100.0,
+    "first_release_date": 1006300800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Super Smash Bros. Melee",
+    "rating": 88.73983046386506,
+    "total_rating_count": 1113
+  },
+  {
+    "id": 418,
+    "aggregated_rating": 95.0,
+    "first_release_date": 995500800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy X",
+    "rating": 87.81055517102754,
+    "total_rating_count": 1109
+  },
+  {
+    "id": 38,
+    "aggregated_rating": 90.0,
+    "first_release_date": 1295913600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dead Space 2",
+    "rating": 86.42461136892392,
+    "total_rating_count": 1103
+  },
+  {
+    "id": 1887,
+    "aggregated_rating": 87.9375,
+    "first_release_date": 1416268800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dragon Age: Inquisition",
+    "rating": 82.53898856782804,
+    "total_rating_count": 1099
+  },
+  {
+    "id": 1103,
+    "aggregated_rating": 100.0,
+    "first_release_date": 764035200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Metroid",
+    "rating": 92.36116336942116,
+    "total_rating_count": 1087
+  },
+  {
+    "id": 343,
+    "aggregated_rating": 85.0,
+    "first_release_date": 1319500800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 3",
+    "rating": 79.91858480418722,
+    "total_rating_count": 1086
+  },
+  {
+    "id": 622,
+    "aggregated_rating": 84.4,
+    "first_release_date": 1130198400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty 2",
+    "rating": 82.88469862738779,
+    "total_rating_count": 1085
+  },
+  {
+    "id": 3042,
+    "aggregated_rating": 72.05882352941177,
+    "first_release_date": 1422230400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dying Light",
+    "rating": 79.51347157705277,
+    "total_rating_count": 1084
+  },
+  {
+    "id": 19,
+    "aggregated_rating": 84.28571428571429,
+    "first_release_date": 1066089600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Max Payne 2: The Fall of Max Payne",
+    "rating": 85.87801959659195,
+    "total_rating_count": 1080
+  },
+  {
+    "id": 1879,
+    "aggregated_rating": 81.0,
+    "first_release_date": 1305504000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Terraria",
+    "rating": 82.33444946726368,
+    "total_rating_count": 1078
+  },
+  {
+    "id": 549,
+    "aggregated_rating": 93.33333333333333,
+    "first_release_date": 1111449600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War",
+    "rating": 83.53923526499655,
+    "total_rating_count": 1070
+  },
+  {
+    "id": 1033,
+    "aggregated_rating": 90.0,
+    "first_release_date": 1039737600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: The Wind Waker",
+    "rating": 87.2219335016791,
+    "total_rating_count": 1065
+  },
+  {
+    "id": 74701,
+    "aggregated_rating": 82.84615384615384,
+    "first_release_date": 1573776000,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars Jedi: Fallen Order",
+    "rating": 80.90443482302004,
+    "total_rating_count": 1062
+  },
+  {
+    "id": 109,
+    "aggregated_rating": 89.375,
+    "first_release_date": 1305590400,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "L.A. Noire",
+    "rating": 82.0588809650805,
+    "total_rating_count": 1060
+  },
+  {
+    "id": 43,
+    "aggregated_rating": 92.11111111111111,
+    "first_release_date": 1314057600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Deus Ex: Human Revolution",
+    "rating": 84.3603463515685,
+    "total_rating_count": 1060
+  },
+  {
+    "id": 551,
+    "aggregated_rating": 92.75,
+    "first_release_date": 1173744000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War II",
+    "rating": 85.56976337950292,
+    "total_rating_count": 1058
+  },
+  {
+    "id": 376,
+    "aggregated_rating": 90.0,
+    "first_release_date": 1005609600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 2: Sons of Liberty",
+    "rating": 88.8618221753468,
+    "total_rating_count": 1043
+  },
+  {
+    "id": 498,
+    "aggregated_rating": 80.0,
+    "first_release_date": 1255996800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Borderlands",
+    "rating": 78.9104665506876,
+    "total_rating_count": 1037
+  },
+  {
+    "id": 1062,
+    "aggregated_rating": 83.0,
+    "first_release_date": 1273795200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Alan Wake",
+    "rating": 81.24981671983512,
+    "total_rating_count": 1035
+  },
+  {
+    "id": 327,
+    "aggregated_rating": 80.0,
+    "first_release_date": 938649600,
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Age of Empires II: The Age of Kings",
+    "rating": 86.14981354201515,
+    "total_rating_count": 1033
+  },
+  {
+    "id": 98,
+    "aggregated_rating": 84.71428571428571,
+    "first_release_date": 1132012800,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Most Wanted",
+    "rating": 84.38163364900932,
+    "total_rating_count": 1030
+  },
+  {
+    "id": 115,
+    "aggregated_rating": 84.0,
+    "first_release_date": 1256601600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "name": "League of Legends",
+    "rating": 75.43214661714751,
+    "total_rating_count": 1028
+  },
+  {
+    "id": 1905,
+    "aggregated_rating": 82.6,
+    "first_release_date": 1593388800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Fortnite",
+    "rating": 70.93013159126534,
+    "total_rating_count": 1019
+  },
+  {
+    "id": 11233,
+    "aggregated_rating": 86.95238095238095,
+    "first_release_date": 1492992000,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "What Remains of Edith Finch",
+    "rating": 83.62969409504765,
+    "total_rating_count": 1017
+  },
+  {
+    "id": 673,
+    "aggregated_rating": 80.0,
+    "first_release_date": 755481600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom",
+    "rating": 85.33355445698787,
+    "total_rating_count": 1009
+  },
+  {
+    "id": 3035,
+    "aggregated_rating": 88.5,
+    "first_release_date": 1381968000,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "The Stanley Parable",
+    "rating": 83.76869173719115,
+    "total_rating_count": 1003
+  },
+  {
+    "id": 305152,
+    "aggregated_rating": 87.0,
+    "first_release_date": 1745452800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Clair Obscur: Expedition 33",
+    "rating": 91.80923684728819,
+    "total_rating_count": 1002
+  },
+  {
+    "id": 103054,
+    "aggregated_rating": 88.35714285714286,
+    "first_release_date": 1538697600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed Odyssey",
+    "rating": 81.04449629148318,
+    "total_rating_count": 995
+  },
+  {
+    "id": 625,
+    "aggregated_rating": 80.0,
+    "first_release_date": 1226361600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Call of Duty: World at War",
+    "rating": 75.20875941427937,
+    "total_rating_count": 993
+  },
+  {
+    "id": 5606,
+    "aggregated_rating": 70.93333333333334,
+    "first_release_date": 1415664000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed Unity",
+    "rating": 71.6586402185057,
+    "total_rating_count": 991
+  },
+  {
+    "id": 103329,
+    "aggregated_rating": 83.4,
+    "first_release_date": 1566864000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Control",
+    "rating": 83.19128484244472,
+    "total_rating_count": 988
+  },
+  {
+    "id": 1051,
+    "aggregated_rating": 72.5,
+    "first_release_date": 1226361600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mirror's Edge",
+    "rating": 77.08981725038244,
+    "total_rating_count": 982
+  },
+  {
+    "id": 421,
+    "aggregated_rating": 84.16666666666667,
+    "first_release_date": 962928000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy IX",
+    "rating": 88.15148112400429,
+    "total_rating_count": 976
+  },
+  {
+    "id": 90101,
+    "aggregated_rating": 86.6,
+    "first_release_date": 1544140800,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Super Smash Bros. Ultimate",
+    "rating": 86.61557927063751,
+    "total_rating_count": 968
+  },
+  {
+    "id": 120,
+    "aggregated_rating": 83.4,
+    "first_release_date": 1337040000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Diablo III",
+    "rating": 78.1574768993112,
+    "total_rating_count": 962
+  },
+  {
+    "id": 1078,
+    "aggregated_rating": 96.25,
+    "first_release_date": 1274572800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Galaxy 2",
+    "rating": 88.926289557621,
+    "total_rating_count": 959
+  },
+  {
+    "id": 9061,
+    "aggregated_rating": 86.88235294117646,
+    "first_release_date": 1506643200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Cuphead",
+    "rating": 84.78311490668814,
+    "total_rating_count": 947
+  },
+  {
+    "id": 1122,
+    "aggregated_rating": 69.8,
+    "first_release_date": 1352678400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty: Black Ops II",
+    "rating": 73.70423260516246,
+    "total_rating_count": 946
+  },
+  {
+    "id": 8197,
+    "first_release_date": 625881600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "name": "Tetris",
+    "rating": 86.28684007994772,
+    "total_rating_count": 944
+  },
+  {
+    "id": 119388,
+    "aggregated_rating": 95.33333333333333,
+    "first_release_date": 1683849600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "rating": 92.85767014603601,
+    "total_rating_count": 941
+  },
+  {
+    "id": 740,
+    "aggregated_rating": 86.66666666666667,
+    "first_release_date": 1005782400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Halo: Combat Evolved",
+    "rating": 83.22410882570937,
+    "total_rating_count": 936
+  },
+  {
+    "id": 1377,
+    "aggregated_rating": 76.66666666666667,
+    "first_release_date": 1340668800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Spec Ops: The Line",
+    "rating": 82.05617777543142,
+    "total_rating_count": 932
+  },
+  {
+    "id": 19564,
+    "aggregated_rating": 84.41176470588235,
+    "first_release_date": 1573171200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Death Stranding",
+    "rating": 86.03592186526272,
+    "total_rating_count": 925
+  },
+  {
+    "id": 18320,
+    "aggregated_rating": 89.0952380952381,
+    "first_release_date": 1477008000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Battlefield 1",
+    "rating": 77.83625172482259,
+    "total_rating_count": 920
+  },
+  {
+    "id": 1979,
+    "aggregated_rating": 80.27777777777777,
+    "first_release_date": 1383004800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Battlefield 4",
+    "rating": 75.80471122973417,
+    "total_rating_count": 919
+  },
+  {
+    "id": 14,
+    "first_release_date": 909619200,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Fallout 2",
+    "rating": 89.24914160808056,
+    "total_rating_count": 912
+  },
+  {
+    "id": 123,
+    "aggregated_rating": 86.25,
+    "first_release_date": 1101168000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "World of Warcraft",
+    "rating": 83.68930910737363,
+    "total_rating_count": 909
+  },
+  {
+    "id": 891,
+    "aggregated_rating": 80.0,
+    "first_release_date": 1191974400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Team Fortress 2",
+    "rating": 82.76203304208721,
+    "total_rating_count": 903
+  },
+  {
+    "id": 11737,
+    "aggregated_rating": 84.71428571428571,
+    "first_release_date": 1559001600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Outer Wilds",
+    "rating": 89.26005371622311,
+    "total_rating_count": 902
+  },
+  {
+    "id": 338,
+    "aggregated_rating": 86.5,
+    "first_release_date": 1149120000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Half-Life 2: Episode One",
+    "rating": 84.05581334412057,
+    "total_rating_count": 898
+  },
+  {
+    "id": 495,
+    "aggregated_rating": 87.25,
+    "first_release_date": 1268697600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Metro 2033",
+    "rating": 82.02759722493431,
+    "total_rating_count": 897
+  },
+  {
+    "id": 1105,
+    "aggregated_rating": 95.0,
+    "first_release_date": 1037491200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metroid Prime",
+    "rating": 91.67255944745767,
+    "total_rating_count": 894
+  },
+  {
+    "id": 97,
+    "aggregated_rating": 78.5,
+    "first_release_date": 1099958400,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Underground 2",
+    "rating": 83.19128234428696,
+    "total_rating_count": 890
+  },
+  {
+    "id": 28552,
+    "aggregated_rating": 84.33333333333333,
+    "first_release_date": 1522022400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Far Cry 5",
+    "rating": 75.87349325257063,
+    "total_rating_count": 885
+  },
+  {
+    "id": 17447,
+    "aggregated_rating": 88.91304347826087,
+    "first_release_date": 1477612800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Titanfall 2",
+    "rating": 83.23007732772399,
+    "total_rating_count": 880
+  },
+  {
+    "id": 1030,
+    "aggregated_rating": 90.0,
+    "first_release_date": 956793600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Majora's Mask",
+    "rating": 86.03262247209399,
+    "total_rating_count": 879
+  },
+  {
+    "id": 2368,
+    "aggregated_rating": 90.25,
+    "first_release_date": 1394496000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dark Souls II",
+    "rating": 79.40707159967161,
+    "total_rating_count": 873
+  },
+  {
+    "id": 1221,
+    "aggregated_rating": 90.0,
+    "first_release_date": 1135209600,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Kingdom Hearts II",
+    "rating": 88.2862753564574,
+    "total_rating_count": 865
+  },
+  {
+    "id": 56,
+    "aggregated_rating": 63.25,
+    "first_release_date": 1020211200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Elder Scrolls III: Morrowind",
+    "rating": 85.374484528197,
+    "total_rating_count": 861
+  },
+  {
+    "id": 987,
+    "aggregated_rating": 90.75,
+    "first_release_date": 1190678400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Halo 3",
+    "rating": 85.07792111781964,
+    "total_rating_count": 860
+  },
+  {
+    "id": 3097,
+    "aggregated_rating": 81.13888888888889,
+    "first_release_date": 1387238400,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Walking Dead: Season Two",
+    "rating": 79.66812349042235,
+    "total_rating_count": 858
+  },
+  {
+    "id": 621,
+    "aggregated_rating": 86.66666666666667,
+    "first_release_date": 1067385600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty",
+    "rating": 81.04115051695882,
+    "total_rating_count": 858
+  },
+  {
+    "id": 8263,
+    "aggregated_rating": 72.15789473684211,
+    "first_release_date": 1445558400,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Assassin's Creed Syndicate",
+    "rating": 74.70940612515639,
+    "total_rating_count": 854
+  },
+  {
+    "id": 1128,
+    "aggregated_rating": 92.33333333333333,
+    "first_release_date": 858816000,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Castlevania: Symphony of the Night",
+    "rating": 92.16030436285608,
+    "total_rating_count": 852
+  },
+  {
+    "id": 885,
+    "aggregated_rating": 85.25,
+    "first_release_date": 1287532800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Super Meat Boy",
+    "rating": 82.33561082078309,
+    "total_rating_count": 848
+  },
+  {
+    "id": 80,
+    "aggregated_rating": 88.0,
+    "first_release_date": 1193356800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Witcher",
+    "rating": 81.95889393478913,
+    "total_rating_count": 845
+  },
+  {
+    "id": 2003,
+    "aggregated_rating": 71.11764705882354,
+    "first_release_date": 1382572800,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Batman: Arkham Origins",
+    "rating": 75.1734490684895,
+    "total_rating_count": 844
+  },
+  {
+    "id": 41,
+    "aggregated_rating": 90.5,
+    "first_release_date": 961977600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Deus Ex",
+    "rating": 86.01729516313597,
+    "total_rating_count": 843
+  },
+  {
+    "id": 96,
+    "aggregated_rating": 76.5,
+    "first_release_date": 1069027200,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "name": "Need for Speed: Underground",
+    "rating": 82.98751244561088,
+    "total_rating_count": 841
+  },
+  {
+    "id": 847,
+    "aggregated_rating": 78.4,
+    "first_release_date": 1236211200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Resident Evil 5",
+    "rating": 73.55597441547543,
+    "total_rating_count": 838
+  },
+  {
+    "id": 27316,
+    "aggregated_rating": 80.86666666666666,
+    "first_release_date": 1557792000,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "A Plague Tale: Innocence",
+    "rating": 80.3308779290756,
+    "total_rating_count": 831
+  },
+  {
+    "id": 118,
+    "aggregated_rating": 85.83333333333333,
+    "first_release_date": 1102291200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+    "rating": 86.68307607352682,
+    "total_rating_count": 831
+  },
+  {
+    "id": 204350,
+    "aggregated_rating": 77.33333333333333,
+    "first_release_date": 1662076800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us Part I",
+    "rating": 92.83960716945708,
+    "total_rating_count": 829
+  },
+  {
+    "id": 11118,
+    "aggregated_rating": 85.85,
+    "first_release_date": 1478822400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dishonored 2",
+    "rating": 84.8120822546754,
+    "total_rating_count": 824
+  },
+  {
+    "id": 499,
+    "aggregated_rating": 96.0,
+    "first_release_date": 1268697600,
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War III",
+    "rating": 86.05448736232945,
+    "total_rating_count": 818
+  },
+  {
+    "id": 1334,
+    "aggregated_rating": 83.4375,
+    "first_release_date": 1375833600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Brothers: A Tale of Two Sons",
+    "rating": 80.92837498596359,
+    "total_rating_count": 807
+  },
+  {
+    "id": 296,
+    "aggregated_rating": 84.66666666666667,
+    "first_release_date": 1194912000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Crysis",
+    "rating": 80.58471316627822,
+    "total_rating_count": 803
+  },
+  {
+    "id": 1342,
+    "aggregated_rating": 66.33333333333333,
+    "first_release_date": 1381190400,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Beyond: Two Souls",
+    "rating": 72.77272466753101,
+    "total_rating_count": 797
+  },
+  {
+    "id": 103298,
+    "aggregated_rating": 86.07142857142857,
+    "first_release_date": 1584576000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Doom Eternal",
+    "rating": 84.6110007788402,
+    "total_rating_count": 785
+  },
+  {
+    "id": 836,
+    "aggregated_rating": 84.22222222222223,
+    "first_release_date": 1068508800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Prince of Persia: The Sands of Time",
+    "rating": 81.60727622506857,
+    "total_rating_count": 783
+  },
+  {
+    "id": 2963,
+    "aggregated_rating": 90.5,
+    "first_release_date": 1373328000,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "name": "Dota 2",
+    "rating": 79.28823042225135,
+    "total_rating_count": 782
+  },
+  {
+    "id": 122,
+    "aggregated_rating": 84.85714285714286,
+    "first_release_date": 1226880000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Left 4 Dead",
+    "rating": 80.10248615004667,
+    "total_rating_count": 777
+  },
+  {
+    "id": 426,
+    "aggregated_rating": 100.0,
+    "first_release_date": 765244800,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy III",
+    "rating": 89.63070941539046,
+    "total_rating_count": 775
+  },
+  {
+    "id": 241,
+    "aggregated_rating": 70.0,
+    "first_release_date": 973728000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Counter-Strike",
+    "rating": 83.05326287016142,
+    "total_rating_count": 775
+  },
+  {
+    "id": 19441,
+    "aggregated_rating": 81.33333333333333,
+    "first_release_date": 1479168000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Watch Dogs 2",
+    "rating": 76.73113272223635,
+    "total_rating_count": 771
+  },
+  {
+    "id": 1983,
+    "aggregated_rating": 90.25,
+    "first_release_date": 1311120000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Bastion",
+    "rating": 82.50245010651042,
+    "total_rating_count": 768
+  },
+  {
+    "id": 9174,
+    "aggregated_rating": 77.72222222222223,
+    "first_release_date": 1493337600,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Little Nightmares",
+    "rating": 80.72079160065441,
+    "total_rating_count": 765
+  },
+  {
+    "id": 110248,
+    "aggregated_rating": 85.0,
+    "first_release_date": 1658188800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Stray",
+    "rating": 81.38184477800948,
+    "total_rating_count": 761
+  },
+  {
+    "id": 380,
+    "aggregated_rating": 83.5,
+    "first_release_date": 1213228800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metal Gear Solid 4: Guns of the Patriots",
+    "rating": 87.43860433986667,
+    "total_rating_count": 758
+  },
+  {
+    "id": 873,
+    "aggregated_rating": 84.5,
+    "first_release_date": 1321315200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Saints Row: The Third",
+    "rating": 78.2344521945271,
+    "total_rating_count": 752
+  },
+  {
+    "id": 2033,
+    "aggregated_rating": 73.6086956521739,
+    "first_release_date": 1383609600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Call of Duty: Ghosts",
+    "rating": 64.93071060759354,
+    "total_rating_count": 748
+  },
+  {
+    "id": 7609,
+    "aggregated_rating": 79.5,
+    "first_release_date": 1440460800,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Until Dawn",
+    "rating": 79.93879001124628,
+    "total_rating_count": 745
+  },
+  {
+    "id": 539,
+    "aggregated_rating": 79.9,
+    "first_release_date": 1368489600,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Metro: Last Light",
+    "rating": 82.49453038318481,
+    "total_rating_count": 743
+  },
+  {
+    "id": 142,
+    "aggregated_rating": 75.6,
+    "first_release_date": 1130716800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Star Wars: Battlefront II",
+    "rating": 84.7905673903074,
+    "total_rating_count": 743
+  },
+  {
+    "id": 4754,
+    "aggregated_rating": 85.63157894736842,
+    "first_release_date": 1412553600,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Alien: Isolation",
+    "rating": 85.30056853882525,
+    "total_rating_count": 742
+  },
+  {
+    "id": 2909,
+    "aggregated_rating": 92.33333333333333,
+    "first_release_date": 1385078400,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: A Link Between Worlds",
+    "rating": 87.33365482272838,
+    "total_rating_count": 738
+  },
+  {
+    "id": 1022,
+    "first_release_date": 509328000,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda",
+    "rating": 80.5195528526872,
+    "total_rating_count": 738
+  },
+  {
+    "id": 2935,
+    "aggregated_rating": 82.4,
+    "first_release_date": 1375920000,
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Papers, Please",
+    "rating": 81.7702231610028,
+    "total_rating_count": 737
+  },
+  {
+    "id": 1279,
+    "aggregated_rating": 88.22222222222223,
+    "first_release_date": 1394496000,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 35,
+        "name": "Card & Board Game"
+      }
+    ],
+    "name": "Hearthstone",
+    "rating": 78.34729677003278,
+    "total_rating_count": 737
+  },
+  {
+    "id": 364,
+    "aggregated_rating": 91.0,
+    "first_release_date": 920160000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "rating": 90.02721570767932,
+    "total_rating_count": 735
+  },
+  {
+    "id": 1073,
+    "aggregated_rating": 100.0,
+    "first_release_date": 807580800,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario World 2: Yoshi's Island",
+    "rating": 87.33369213174066,
+    "total_rating_count": 734
+  },
+  {
+    "id": 1910,
+    "aggregated_rating": 77.18181818181819,
+    "first_release_date": 1378252800,
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Outlast",
+    "rating": 76.94367234774225,
+    "total_rating_count": 729
+  },
+  {
+    "id": 9066,
+    "aggregated_rating": 76.23076923076923,
+    "first_release_date": 1425945600,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "name": "Cities: Skylines",
+    "rating": 80.08908009582927,
+    "total_rating_count": 722
+  },
+  {
+    "id": 1185,
+    "aggregated_rating": 75.0,
+    "first_release_date": 842227200,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Crash Bandicoot",
+    "rating": 80.48360943926839,
+    "total_rating_count": 720
+  },
+  {
+    "id": 19531,
+    "aggregated_rating": 75.8125,
+    "first_release_date": 1493856000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Prey",
+    "rating": 80.54954366822489,
+    "total_rating_count": 717
+  },
+  {
+    "id": 45181,
+    "first_release_date": 1352160000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect Trilogy",
+    "rating": 92.36007753764025,
+    "total_rating_count": 716
+  },
+  {
+    "id": 37777,
+    "aggregated_rating": 80.0,
+    "first_release_date": 1536883200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Shadow of the Tomb Raider",
+    "rating": 77.51715826663384,
+    "total_rating_count": 709
+  },
+  {
+    "id": 1036,
+    "aggregated_rating": 96.25,
+    "first_release_date": 1165017600,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Twilight Princess",
+    "rating": 85.39331082069583,
+    "total_rating_count": 708
+  },
+  {
+    "id": 136625,
+    "aggregated_rating": 84.88888888888889,
+    "first_release_date": 1675987200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Hogwarts Legacy",
+    "rating": 78.61322426993414,
+    "total_rating_count": 707
+  },
+  {
+    "id": 132181,
+    "aggregated_rating": 94.5,
+    "first_release_date": 1679616000,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Resident Evil 4",
+    "rating": 90.1232156998935,
+    "total_rating_count": 704
+  },
+  {
+    "id": 78,
+    "aggregated_rating": 78.5,
+    "first_release_date": 1299542400,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Dragon Age II",
+    "rating": 74.10481259744058,
+    "total_rating_count": 704
+  },
+  {
+    "id": 37016,
+    "aggregated_rating": 83.25,
+    "first_release_date": 1550188800,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metro Exodus",
+    "rating": 83.02897689325006,
+    "total_rating_count": 699
+  },
+  {
+    "id": 986,
+    "aggregated_rating": 80.66666666666667,
+    "first_release_date": 1099958400,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Halo 2",
+    "rating": 83.94967054225114,
+    "total_rating_count": 698
+  },
+  {
+    "id": 530,
+    "aggregated_rating": 71.88235294117646,
+    "first_release_date": 1353283200,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Hitman: Absolution",
+    "rating": 75.00171530640333,
+    "total_rating_count": 697
+  }
+]

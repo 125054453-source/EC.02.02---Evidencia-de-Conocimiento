@@ -1,0 +1,8 @@
+# Credenciales: NUNCA se suben
+token*.txt
+.env
+.streamlit/secrets.toml
+# Entorno y basura de Python
+.venv/
+__pycache__/
+*.pyc
